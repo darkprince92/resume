@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Experiences
+### Senior Software Engineer —​ ​PriyoSys Ltd.
+FEB 2020 - PRESENT, Role: Project Architect, Backend services
 
-You can use the [editor on GitHub](https://github.com/darkprince92/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- Scaled out existing infrastructure for nationwide concurrently usable services, like quiz, using AWS lambda and auto scaling and served 50M questions to thousands of users concurrently for seamless quiz experience.
+- Designed and developed large scale data inventory services with critical security features extending upto data level.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Software Development Engineer II —​ ​Craftsmen Ltd.
+JAN 2020 - FEB 2020, Role: Backend microservices, system developer
 
-### Markdown
+- Worked with backend services built with AWS lambda and deployment automation with cloudformation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Software Engineer​ — ​iPay Systems Ltd.
+DEC 2015 - DEC 2019, Role: System development and data engineering.
 
-```markdown
-Syntax highlighted code block
+- Designed and developed backend systems following microservices architecture for the first online payment platforminBangladesh,​iPay,​ which serves half a millionusers.
+- Built on-premise data warehouse, data visualization, and automation services for data analysis.
+- Designed and developed instant cashback and incentive offer service and deployed for large scale operation, which boosted user acquisition by 200X (from 150 to 30000 signups per day on average).
+- Did R&D on face recognition and deployed the service for verifying users against national ID data which automated the operation and reduced the user verification time from hours to minutes.
+- Worked as project lead for multiple core services, contributed directly to designing the architecture of the whole system along with its deployment and mentored young talents.
 
-# Header 1
-## Header 2
-### Header 3
+### Jr. Software Engineer —​ ​Reve Systems Ltd.
+OCT 2015 - NOV 2015, Role: Android development, core android team.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/darkprince92/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Worked on the Android framework, core mobile services, UI, integrations.
