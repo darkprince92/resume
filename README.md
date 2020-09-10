@@ -1,3 +1,15 @@
+## Skills
+### Progamming Languages
+Java, Pyhton, Groovy, Javascript
+### Frameworks
+Spring, Django, AWS Serverless, Airflow
+### Tools
+Apache Kafka, Kafka Connect, Redis
+### Databases
+Postgresql, MySQL, Cassandra, MongoDB, DynamoDB
+### Infrastructures
+AWS, Docker, Swarm, Debian
+
 ## Experiences
 ### Senior Software Engineer —​ ​PriyoSys Ltd.
 FEB 2020 - PRESENT, Role: Project Architect, Backend services
@@ -23,3 +35,29 @@ DEC 2015 - DEC 2019, Role: System development and data engineering.
 OCT 2015 - NOV 2015, Role: Android development, core android team.
 
 - Worked on the Android framework, core mobile services, UI, integrations.
+
+## Projects
+### National Quiz
+Loadedandserved50MquestiondatausingAWSlambda,S3anddynamoDB.
+
+### User Verification
+Integrated an applied AI library for face recognition.
+
+### Data Pipeline
+Built data pipeline using ​Kafka Connect​ and a​ irflow​ jobs​. ​Deployed using ​Docker swarm.​
+
+### Core Financial Services
+Developed core services like auth, user management, payments, administrative operations using the Spring framework.
+ 
+## Education
+### Bachelor of Science in Computer Science and Engineering
+Bangladesh University of Engineering and Technology
+2010-2015
+
+## Contact
+Phone:: +8801720075715
+email: ​noor.fahim1192@gmail.com
+Address: Eastern Rokeya Tower, 98 Boro Moghbazar, Dhaka-1217, Bangladesh.
+
+## Links
+linkedIn: ​https://www.linkedin.com/in/noor-1192/
